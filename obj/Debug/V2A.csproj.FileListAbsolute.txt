@@ -1,0 +1,9 @@
+C:\learning-2015\Projects\V2A\V2A\bin\Debug\V2A.exe.config
+C:\learning-2015\Projects\V2A\V2A\bin\Debug\V2A.exe
+C:\learning-2015\Projects\V2A\V2A\bin\Debug\V2A.pdb
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.Properties.Resources.resources
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.csproj.GenerateResource.Cache
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.exe
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.pdb
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.csprojResolveAssemblyReference.cache
+C:\learning-2015\Projects\V2A\V2A\obj\Debug\V2A.Video2Audio.resources
